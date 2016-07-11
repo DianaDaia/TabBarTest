@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "1a2fa50fbb205cb5d082386f4c0c16ca"
+build_time: [521557390, 78540000]
+inputs:
+  "/Users/dianadaia/Desktop/TabBarTest/TabBarTest/RedViewController.swift": [521557390, 0]
+  "/Users/dianadaia/Desktop/TabBarTest/TabBarTest/OrangeViewController.swift": [521557390, 0]
+  "/Users/dianadaia/Desktop/TabBarTest/TabBarTest/BlueViewController.swift": [521557390, 0]
+  "/Users/dianadaia/Desktop/TabBarTest/TabBarTest/YellowViewController.swift": [521557390, 0]
+  "/Users/dianadaia/Desktop/TabBarTest/TabBarTest/AppDelegate.swift": [521557303, 0]
